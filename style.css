@@ -251,23 +251,13 @@ h1 {
     }
 
     #current {
-
-        /* height: 50vh; */
         width: 95vw;
-        /* margin-left: 3vw; */
-margin: 5vh 0;
-        /* gap: 3px; */
-
+        margin: 5vh 0;
     }
 
-
     #details {
-
         margin-left: 4vw;
         margin-right: 3vw;
-        /* width: 30vw; */
-        /*  */
-        /* gap: 10px; */
     }
 
     #country,
@@ -275,9 +265,7 @@ margin: 5vh 0;
     #humidity,
     #feelslike,
     #wind {
-
         gap: 5px;
-
     }
 
     #country img,
@@ -294,8 +282,6 @@ margin: 5vh 0;
         font-weight: 500;
     }
 
-
-
     #wind p,
     #humidity p,
     #feelslike p,
@@ -303,20 +289,7 @@ margin: 5vh 0;
         font-size: 16px;
     }
 
-    .image {
-        /* width: 20vw; */
-
-    }
-
-    .image img {
-        /* width: 14vw; */
-
-
-    }
-
     #temp {
-        /* width: 30vw; */
-        /*  */
         margin-left: 5vw;
     }
 
@@ -326,14 +299,9 @@ margin: 5vh 0;
 
     #text {
         font-size: 18px;
-        /* margin-bottom: 1vh; */
     }
 
     #future {
-        /* flex-wrap: wrap; */
-        /* flex-direction: column;
- */
-        
         gap: 1vw;
         margin-top: 1vh;
 
@@ -342,13 +310,11 @@ margin: 5vh 0;
     .card {
         height: 23vh;
         width: 25vw;
-align-items: center;
-justify-content: center;
+        align-items: center;
+        justify-content: center;
         gap: 1vh;
 
     }
-
-
 
     .futureimg img {
         width: 6vw;
